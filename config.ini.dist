@@ -1,0 +1,13 @@
+[bot]
+token = <bot_token>
+admin_id = <id_of_admin>
+
+[webhook]
+host = <host_of_webhook>
+path = <path_of_execute_file>
+web_host = 0.0.0.0
+web_port = 80
+
+[server]
+ip = <ip_of_server>
+port = <port_of_server>
